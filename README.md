@@ -12,3 +12,4 @@ Kaggle'dan alınan Heart Disease veri seti kullanılmıştır.
 
 ## Başarı Oranı
 Model, test verileri üzerinde **%98.54** başarı göstermiştir.
+![Confusion Matrix](confudion.png)
